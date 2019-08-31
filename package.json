@@ -27,6 +27,9 @@
   "dependencies": {
     "@react-native-firebase/app-types": "0.3.0"
   },
+  "devDependencies": {
+    "genversion": "^2.1.1"
+  },
   "gitHead": "78b4d9cbef3f0e80eb4e5031f395d80e0c30aa24",
   "publishConfig": {
     "access": "public"
